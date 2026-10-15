@@ -1,0 +1,17 @@
+[
+  { "id": "1", "term": "에어프라이어", "searches": 2543, "trend": 15, "category": "생활주방" },
+  { "id": "2", "term": "무선이어폰", "searches": 2104, "trend": 8, "category": "디지털가전" },
+  { "id": "3", "term": "비타민", "searches": 1876, "trend": 12, "category": "뷰티" },
+  { "id": "4", "term": "운동화", "searches": 1654, "trend": -3, "category": "패션" },
+  { "id": "5", "term": "커피머신", "searches": 1543, "trend": 5, "category": "생활주방" },
+  { "id": "6", "term": "스킨케어세트", "searches": 1432, "trend": 18, "category": "뷰티" },
+  { "id": "7", "term": "올리브유", "searches": 1321, "trend": 2, "category": "식품" },
+  { "id": "8", "term": "헬멧", "searches": 1210, "trend": 7, "category": "유아동" },
+  { "id": "9", "term": "책", "searches": 1098, "trend": -5, "category": "도서문구" },
+  { "id": "10", "term": "스포츠의류", "searches": 987, "trend": 10, "category": "스포츠레저" },
+  { "id": "11", "term": "세제", "searches": 876, "trend": 3, "category": "생활주방" },
+  { "id": "12", "term": "그릭요거트", "searches": 765, "trend": 11, "category": "식품" },
+  { "id": "13", "term": "선글라스", "searches": 654, "trend": 6, "category": "패션" },
+  { "id": "14", "term": "칫솔", "searches": 543, "trend": 1, "category": "생활주방" },
+  { "id": "15", "term": "향초", "searches": 432, "trend": 9, "category": "생활주방" }
+]
